@@ -7,19 +7,23 @@ and open the template in the editor.
     Created on : Mar 26, 2018, 7:30:21 PM
     Author     : 00140421
 */
+body{
+    background: #0D63B0;
+}
 #cabecera{
     font-family: Times New Roman;
     font-size: 30px;
     text-align: center;
-    color:#000000   
+    color:#000000;
+    background: #0D63B0
 }
 ul li{
     list-style-type: none;
     display: inline;
     font-size: 14px;
     font-weight: bold;
-    font-family: Times New Roman;
-    background: #E74C3C;
+    font-family: calibri;
+    background: #FF5733;
     padding: 15px;
     border-radius: 30px;
 }
@@ -31,16 +35,17 @@ img{
     border-radius: 10px;
 }
 #cuerpo-nosotros{
-    text-align: center;
+    
 }
 #cuerpo{
     text-align: center;
     font-family: Arial;
     font-size: 14px;
-    color: #000000
+    color: #000000;
+    background: #0D63B0
 }
 #pie{
-    background: #E74C3C;
+    background: #2E86C1;
     text-align: center;
     font-weight: bold;
 }
