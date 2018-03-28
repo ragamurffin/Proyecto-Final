@@ -34,8 +34,8 @@ ul li{
 img{
     border-radius: 10px;
 }
-#cuerpo-nosotros{
-    
+#izquierdo{
+    font-family: calibri;
 }
 #cuerpo{
     text-align: center;
@@ -84,5 +84,5 @@ a:hover{
     font-size: 15px;
 }
 a:visited{
-    color: white;
+    color: black;
 }
