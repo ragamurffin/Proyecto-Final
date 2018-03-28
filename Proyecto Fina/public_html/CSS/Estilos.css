@@ -30,6 +30,9 @@ ul li{
 img{
     border-radius: 10px;
 }
+#cuerpo-nosotros{
+    text-align: center;
+}
 #cuerpo{
     text-align: center;
     font-family: Arial;
