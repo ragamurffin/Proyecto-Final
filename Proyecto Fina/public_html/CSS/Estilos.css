@@ -35,7 +35,11 @@ img{
     border-radius: 10px;
 }
 #izquierdo{
-    font-family: calibri;
+    text-align: center;
+    font-family: Arial;
+    font-size: 14px;
+    color: #000000;
+    background: #0D63B0;
 }
 #cuerpo{
     text-align: center;
@@ -85,4 +89,11 @@ a:hover{
 }
 a:visited{
     color: black;
+}
+#derecho{
+    text-align: center;
+    font-family: Arial;
+    font-size: 14px;
+    color: #000000;
+    background: #0D63B0;
 }
