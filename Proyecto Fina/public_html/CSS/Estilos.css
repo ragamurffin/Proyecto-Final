@@ -23,13 +23,13 @@ ul li{
     font-size: 14px;
     font-weight: bold;
     font-family: calibri;
-    background: #FF5733;
+    background: #072f53;
     padding: 15px;
     border-radius: 30px;
 }
 #menu{
     text-align: center;
-    
+    color: #0D63B0
 }
 img{
     border-radius: 10px;
@@ -56,10 +56,11 @@ img{
 form{
     margin: 0 auto;
     width:700px;
-    background: #E74C3C;
+    background:;
     padding-box:5px;
-    border-radius: 10px
-    
+    border-radius: 10px;
+    text-align: center;
+    color: #000000;
 }
 h1{
     text-align: center;
@@ -88,7 +89,7 @@ a:hover{
     font-size: 15px;
 }
 a:visited{
-    color: black;
+    color: #0D63B0;
 }
 #derecho{
     text-align: center;
